@@ -17,20 +17,8 @@
 
 int main() {
 
-    printf("Tom Nguyen");
-    return 0;
-
- }
-
- *
- */
-
-#include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-
-    printf("Tom Nguyen");
+    printf("Tom Nguyen!");
+    printf("Computer Science")
     return 0;
 
  }
